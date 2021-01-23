@@ -33,11 +33,11 @@ namespace _4thLessonHomework
                 Console.WriteLine(telefon);
             }
 
-            Console.WriteLine("Dizi");
-            foreach (var telefon in telefonKodu)
-            {
-                Console.WriteLine(telefon);
-            }
+            //Console.WriteLine("Dizi");
+            //foreach (var telefon in telefonKodu)
+            //{
+            //    Console.WriteLine(telefon);
+            //}
         }
     }
 }
